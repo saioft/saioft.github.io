@@ -8,3 +8,47 @@ SAIOFT Technology
 .saioft1x{
 	font-size: 50px;
 }
+.box1{
+	background-image: url(img/mobile/img9.png);
+}
+.box2{
+	background-image: url(img/mobile/img10.png);
+}
+.box3{
+	background-image: url(img/mobile/img10.png);
+}
+
+@media only screen and (min-width: 600px){
+	.box0{
+		background-image: url(img/render/img0.png);
+}
+	.box1{
+		background-image: url(img/render/img1.png);
+}
+	.box2{
+		background-image: url(img/render/hand3.png);
+}
+	.box3{
+		background-image: url(img/render/render1.jpg);
+}
+	.box4{
+		background-image: url(img/render/glasses1.jpg); 
+}
+	.box5{
+		background-image: url(img/render/glasses2.jpg);
+}
+	.box6{
+		background-image: url(img/render/usecase1.png);
+}
+	.section1{
+		background-image: url(img/render/render16.jpg);
+	}
+
+}
+.saioft1x {
+	color: rgb(0, 0, 0);
+	font-size: medium;
+}
+
+
+

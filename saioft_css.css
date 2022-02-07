@@ -4,31 +4,32 @@ SAIOFT Technology
 
 */
 
-
+@media only screen and (max-width: 830px){
 .saioft1x{
 	font-size: 50px;
 }
 .box0{
-	background-image: url(img/mobile/table_mobile.png);
+	background-image: url(img/mobile/table_mobile2.png);
 }
 .box1{
-	background-image: url(img/mobile/robot_mobile2.png);
+	background-image: url(img/mobile/robot_mobile4.png);
 }
 
 .box3{
-	background-image: url(img/mobile/img9.png);
+	background-image: url(img/mobile/wear1.png);
 }
 .box4{
-	background-image: url(img/mobile/glasses1_mobile.png);
+	background-image: url(img/mobile/glasses1x_mobile.png);
 }
 .box5{
-	background-image: url(img/mobile/glasses2_mobile.png);
+	background-image: url(img/mobile/glasses2x_mobile.png);
 }
 .box6{
-	background-image: url(img/mobile/usecase1_mobile.png);
+	background-image: url(img/mobile/usecase1x_mobile.png);
+}
 }
 
-@media only screen and (min-width: 600px){
+@media only screen and (min-width: 830px){
 	.box0{
 		background-image: url(img/render/table_new3.png);
 }
